@@ -1,0 +1,24 @@
+1. Co to jest zolw?
+A.Gad
+B.Ptak
+C.Jaszczurka
+D.Ssak
+a
+2. Co to jest malpa?
+A.Gad
+B.Ptak
+C.Jaszczurka
+D.Ssak
+d
+3. Co to jest krokodyl?
+A.Gad
+B.Ptak
+C.Jaszczurka
+D.Ssak
+a
+4. Co to jest papuga?
+A.Gad
+B.Ptak
+C.Jaszczurka
+D.Ssak
+b
