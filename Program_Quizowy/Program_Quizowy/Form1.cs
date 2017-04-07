@@ -169,7 +169,7 @@ namespace Program_Quizowy
             button2.Visible = true;
             button3.Visible = true;
             button4.Visible = true;
-            textBox3.Text = wynik + "z " + (wczytanie.Count / 6);
+            textBox3.Text = wynik + " NA " + (wczytanie.Count / 6);
             textBox2.Text = "Quest" + nr_p + "/" + (wczytanie.Count / 6);
             start();
         }
@@ -181,7 +181,7 @@ namespace Program_Quizowy
             button3.Visible = false;
             button4.Visible = false;
             button5.Visible = true;
-            textBox1.Text = "Twój wynik to"+ wynik;
+            textBox1.Text = "Twój wynik to: "+ wynik;
         }
 
     }

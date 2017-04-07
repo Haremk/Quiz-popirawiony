@@ -1,0 +1,9 @@
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\bin\Release\Program_Quizowy.exe.config
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\bin\Release\Program_Quizowy.exe
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\bin\Release\Program_Quizowy.pdb
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\obj\Release\Program_Quizowy.csprojResolveAssemblyReference.cache
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\obj\Release\Program_Quizowy.Form1.resources
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\obj\Release\Program_Quizowy.Properties.Resources.resources
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\obj\Release\Program_Quizowy.csproj.GenerateResource.Cache
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\obj\Release\Program_Quizowy.exe
+c:\users\kaczuszka\documents\visual studio 2015\Projects\Program_Quizowy\Program_Quizowy\obj\Release\Program_Quizowy.pdb
